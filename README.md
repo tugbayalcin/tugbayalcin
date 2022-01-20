@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="https://github.com/tugbayalcin/tugbayalcin/blob/main/banner2.jpg?raw=true">
 
-<!--
-**tugbayalcin/tugbayalcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hi Alien 💁🏻‍♀️ </h1>
+<h2 align="center"> Welcome To My Coding World 👩🏻‍💻 </h2>
 
-Here are some ideas to get you started:
+<p align="justify"> <h3>  Tugba Yalcin - Automation Test Engineer </h3> </p>
+<p align="justify">   </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<ul>
+  <li> 🔭 I’m currently working <b>BookStore Project on Java</b> </li>
+  <li> 🌱 I’m currently learning <b> Web Application Testing With Selenium</b> </li>
+  <li> 📝 I regularly write articles on https://medium.com/@tubaayalcin</li>
+  <li> 💬 Ask me about Git-Github, Java, SDLC, Java Lambda and SQL</li>
+  <li> 📫 How to reach me: https://www.linkedin.com/in/tugbaayalcinn/ </li>
+  
+</ul>

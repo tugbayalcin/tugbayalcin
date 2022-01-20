@@ -29,8 +29,7 @@
 
 ### Blogs posts
 
-<a 
-href ="https://https://medium.com/@tugbaayalcinn">
+<a href ="https://medium.com/@tugbaayalcinn">
 <img src= "https://github-readme-medium.vercel.app/?username=tugbaayalcinn">
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tugbayalcin&label=Profile%20views&color=0e75b6&style=flat" alt="tugbayalcin" /> </p>

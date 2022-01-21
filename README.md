@@ -3,6 +3,8 @@
 <h1 align="center"> Hi Alien 💁🏻‍♀️ </h1>
 <h2 align="center"> Welcome To My Coding World 👩🏻‍💻 </h2>
 <p> &nbsp; </p>
+## Snake eating my contribution graph
+yml dosyasini refer eden kodu yazicaksin
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tugbayalcin" alt="tugbayalcin" /></a> </p>
 <p> &nbsp; </p>
@@ -12,13 +14,13 @@
 
 - 🔭 I’m currently working on [BookStore Project on Java](https://github.com/tugbayalcin/BookStore)
 
-- 🌱 I’m currently learning **Web Application Testing With Selenium**
+- 🌱 I’m currently learning **Web Application Testing With Selenium/RestAssured**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tugbayalcin](https://github.com/tugbayalcin)
 
 - 📝 I regularly write articles on [https://medium.com/@tubaayalcin](https://medium.com/@tubaayalcin)
 
-- 💬 Ask me about **Git-Github, Java, SDLC, Java Lambda and SQL**
+- 💬 Ask me about **Git-Github, Java, JDBC, Selenium, SDLC, Java Lambda and SQL**
 
 - 📫 How to reach me **tubaayalcin@gmail.com**
 
@@ -59,5 +61,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp; &nbsp; &nbsp; <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp; &nbsp; &nbsp; </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp; &nbsp; &nbsp;  </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 <p> &nbsp; </p>
+
+
 
 

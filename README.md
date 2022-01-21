@@ -4,7 +4,7 @@
 <h2 align="center"> Welcome To My Coding World 👩🏻‍💻 </h2>
 <p> &nbsp; </p>
 
-## My Vector Snake eating my contribution graph. 🌱👾
+## My Vector Snake eating my contribution graph 🌱 👾
 ![snake gif](https://github.com/tugbayalcin/tugbayalcin/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tugbayalcin" alt="tugbayalcin" /></a> </p>

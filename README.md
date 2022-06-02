@@ -21,11 +21,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@tubaayalcin](https://medium.com/@tubaayalcin)
 
-- 💬 Ask me about **Git-Github, Java, JDBC, Selenium, SDLC, STLC, Java Lambda and SQL, Rest-Assured API**
+- 💬 Ask me about **Git-Github, Java, JDBC, Selenium, SDLC, STLC, Java Lambda, SQL and Rest-Assured API**
 
 - 📫 How to reach me **tubaayalcin@gmail.com**
 
-- 📄 Know about my experiences [buraya resume linki koyacaksin](file:///Users/tugbayalcin/Desktop/MyResume/resume.html)
+- 📄 Know about my experiences [buraya kendi sitenin url ini koyacaksın](file:///Users/tugbayalcin/Desktop/MyResume/resume.html)
 - <p> &nbsp; </p>
 - 
 

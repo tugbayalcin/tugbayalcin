@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently working on [BookStore Project on Java](https://github.com/tugbayalcin/BookStore)
 
-- 🌱 I’m currently learning **Web Application Testing With Selenium/RestAssured**
+- 🌱 I’m currently learning **Mobil Application Testing With Appium/Selenium**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tugbayalcin](https://github.com/tugbayalcin)
 
 - 📝 I regularly write articles on [https://medium.com/@tubaayalcin](https://medium.com/@tubaayalcin)
 
-- 💬 Ask me about **Git-Github, Java, JDBC, Selenium, SDLC, Java Lambda and SQL**
+- 💬 Ask me about **Git-Github, Java, JDBC, Selenium, SDLC, STLC, Java Lambda and SQL, Rest-Assured API**
 
 - 📫 How to reach me **tubaayalcin@gmail.com**
 

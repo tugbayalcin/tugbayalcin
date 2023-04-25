@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@tubaayalcin](https://medium.com/@tubaayalcin)
 
-- 💬 Ask me about **Git-Github, Java, JDBC, Selenium, SDLC, STLC, Java Lambda, SQL and Rest-Assured API**
+- 💬 Ask me about **Git-Github, Java, JDBC, Selenium, SDLC, STLC, Agile Development, Java Lambda, SQL, Rest-Assured API, API Testing With Karate Framework and Performance Testing With Karate-Gatling Plugin **
 
 - 📫 How to reach me **tubaayalcin@gmail.com**
 

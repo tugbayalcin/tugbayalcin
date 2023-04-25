@@ -25,7 +25,6 @@
 
 - 📫 How to reach me **tubaayalcin@gmail.com**
 
-- 📄 Know about my experiences [buraya kendi sitenin url ini koyacaksın](file:///Users/tugbayalcin/Desktop/MyResume/resume.html)
 - <p> &nbsp; </p>
 - 
 
